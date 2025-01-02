@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Fayez! 👋
 
-<!--
-**fayezCoder/fayezCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a dedicated and passionate developer with expertise in web and mobile application development. My primary focus is on creating efficient, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+### Skills
+- **Languages**: Dart, HTML, CSS, JavaScript
+- **Frameworks**: Flutter, Laravel
+- **Tools**: Git,Composer, Google App Script
+- **Databases**: MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[Mnjz](https://play.google.com/store/apps/details?id=com.fayezcoder.mnjz_sqflite)**: A Flutter app available on Google Play.
+- **[ELCT](https://play.google.com/store/apps/details?id=com.fayezcoder.english)**: An English language testing app available on Google Play.
+- **[Notes App](https://play.google.com/store/apps/details?id=com.fayezcoder.write)**: A note-taking app available on Google Play.
+- **[Dental Appointment Booking System](https://github.com/fayezCoder/dental-appointment)**: A web application built with Laravel for booking dental appointments.
+
+### Contact
+- **Email**: [fayez.coder@gmail.com](mailto:fayez.coder@gmail.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- **Twitter**: [FayezCoder](https://x.com/faizCoder)
+
+### GitHub Stats
+![Fayez's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayezCoder&show_icons=true&theme=radical)
