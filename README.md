@@ -17,7 +17,6 @@ I'm a dedicated and passionate developer with expertise in web and mobile applic
 
 ### Contact
 - **Email**: [fayez.coder@gmail.com](mailto:fayez.coder@gmail.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - **Twitter**: [FayezCoder](https://x.com/faizCoder)
 
 ### GitHub Stats
