@@ -7,7 +7,7 @@ I'm a dedicated and passionate developer with expertise in web and mobile applic
 - **Languages**: Dart, HTML, CSS, JavaScript
 - **Frameworks**: Flutter, Laravel
 - **Tools**: Git,Composer, Google App Script
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, Sqlite
 
 ### Projects
 - **[Mnjz](https://play.google.com/store/apps/details?id=com.fayezcoder.mnjz_sqflite)**: A Flutter app available on Google Play.
